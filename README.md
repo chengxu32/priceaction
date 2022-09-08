@@ -1,6 +1,6 @@
 ## Performing price action analysis with FinSpace
 
-This repository contains sample notebook that uses FinSpace to back test price action trading pattern "Head and Shoulders", which is refeered as HS.
+This repository contains sample notebook that uses FinSpace to back test price action trading pattern "[Head and Shoulders](https://www.investopedia.com/terms/h/head-shoulders.asp)", which is refeered as HS.
 
 ### Price action workflow
 
