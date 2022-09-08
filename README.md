@@ -12,7 +12,7 @@ It covers the following steps:
 4.	Run the algorithm/model to identify the price action patterns
 5.	Plot the pattern on the price chart for verification
 
-
+![Image](Price Action Workflow.png)
 [Price Action Workflow Diagram](Price Action Workflow.png)
 
 ### FinSpace workflow
