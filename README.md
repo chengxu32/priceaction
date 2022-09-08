@@ -31,4 +31,4 @@ Steps belows show how to run the Jupyter notebook in managed Amazon FinSpace Spa
 
 ## Conclusion
 
-This notebook demonstrates how to perform Price Action Analysis using FinSpace and PySpark. You can use it as a foundation to back test price action trading patterns of your interest.
+This notebook demonstrates how to perform Price Action Analysis using [FinSpace](https://aws.amazon.com/finspace) and PySpark. You can use it as a foundation to back test price action trading patterns of your interest.
