@@ -12,7 +12,7 @@ It covers the following steps:
 4.	Run the algorithm/model to identify the price action patterns
 5.	Plot the pattern on the price chart for verification
 
-![Image](Price Action Workflow.png)
+![Image](Price Action Workflow.png).
 [Price Action Workflow Diagram](Price Action Workflow.png)
 
 ### FinSpace workflow
@@ -26,7 +26,7 @@ Steps belows show how to run the Jupyter notebook in managed Amazon FinSpace Spa
 4.	Find all the local minima and maxima of the smoothed price series, then identify both HS and Inverse HS (IHS) patterns 
 5.	Plot all the identified HS and IHS patterns in the price series chart.
 
-
+![Image](Head and Shoulders.png).
 [Head and Shoulders Diagram](Head and Shoulders.png)
 
 ## Conclusion
