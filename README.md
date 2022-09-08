@@ -21,8 +21,8 @@ Steps belows show how to run the Jupyter notebook in managed Amazon FinSpace Spa
 
 1.	Load “US Equity TAQ - AMZN 6 Months” data that is provided as part of the Capital Markets Sample Data Bundle installed in the Amazon FinSpace environment by default. 
 2.	Aggregate the price data at various lower frequencies and identify the ones for which the price action patterns are pronounced and tradable.  
-3.	Further aggregate the data to the desired frequency by calling FinSpace time bar collection, summarization and filling and filtering functions.
-4.  Smooth the resultant price series using functions provided in FinSpace analytical library (e.g. Exponential Moving Average)  
+3.	Further aggregate the data to the desired frequency by calling [FinSpace fucntions](https://docs.aws.amazon.com/finspace/latest/userguide/finspace-time-series-library.html) such as time bar collection, summarization, filling and filtering.
+4.  Smooth the resultant price series using functions provided in [FinSpace analytical library](https://docs.aws.amazon.com/finspace/latest/userguide/time-series-analyze.title.html) (e.g. Exponential Moving Average)  
 4.	Find all the local minima and maxima of the smoothed price series, then identify both HS and Inverse HS (IHS) patterns 
 5.	Plot all the identified HS and IHS patterns in the price series chart.
 
